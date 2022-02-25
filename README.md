@@ -1,5 +1,8 @@
 [![Python application test with Github Actions](https://github.com/shailu1391/Scaffold/actions/workflows/main.yml/badge.svg)](https://github.com/shailu1391/Scaffold/actions/workflows/main.yml)
 
+![ alt-text ](https://img.shields.io/badge/AzureDevOps-11.0-0078D7?style=for-the-badge&logo=AzureDevOps)
+![ alt-text ](https://img.shields.io/badge/AmazonAWS-CLI-232F3E?style=for-the-badge&logo=AmazonAWS)
+
 # Scaffold
 This is a project scaffold for python
 
